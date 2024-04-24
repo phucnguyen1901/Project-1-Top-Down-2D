@@ -1,0 +1,54 @@
+# Compiled files and folders
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Oo]bj/
+[Uu]ser[Ss]ettings/
+[Cc]ache/
+
+# Unity specific files
+*.csproj
+*.unityproj
+*.sln
+*.sln.*
+*.csproj.*
+*.user
+
+# JetBrains Rider
+*.sln.iml
+*.csproj.iml
+*.csproj.user
+*.sln.user
+*.iml
+*.idea/
+
+# Visual Studio Code project files
+.vscode/
+
+# Exclude auto-generated files
+*.dll
+*.exe
+*.pdb
+*.pidb
+*.bak
+*.tmp
+*.svd
+*.idb
+
+# Exclude built app files
+*.apk
+*.xap
+*.app
+*.ipa
+*.unitypackage
+*.crash
+*.ccr
+
+# Exclude system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Exclude test files and folders
+test-result/
